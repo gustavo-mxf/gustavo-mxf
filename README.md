@@ -88,7 +88,7 @@ Me chamo Gustavo Lima Campos, tenho 19 anos, nascido em Salvador BA, formado com
   <img 
     align="left" 
     alt="Gustavo's GitHub Stats" 
-    height="100" 
+    height="150" 
     style="padding-right: 10px;" 
     src="https://github-stats-extended.vercel.app/api?username=gustavo-mxf&theme=tokyonight" 
   />
@@ -96,8 +96,7 @@ Me chamo Gustavo Lima Campos, tenho 19 anos, nascido em Salvador BA, formado com
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="100" 
-    style="padding-right: 10px;"
+      height="150" 
       src="https://github-stats-extended.vercel.app/api/top-langs?username=gustavo-mxf&langs_count=4&theme=dark_github&theme=tokyonight" 
   />
 
